@@ -17,7 +17,7 @@ The system helps dealerships and sales teams by:
 
 ## 📸 View & Play with the File
 
-**[Access Ather Stock Allocation System](https://docs.google.com/spreadsheets/d/1_MPsV5xK9Pgx_FmYz1DfumbP07w7B4z7Fs9Ta3IR_KM/edit?sharingaction=ownershiptransfer&gid=2102566362#gid=2102566362)**
+**[Access Ather Stock Allocation System](https://docs.google.com/spreadsheets/d/1_MPsV5xK9Pgx_FmYz1DfumbP07w7B4z7Fs9Ta3IR_KM/edit?usp=sharing)**
 
 > Click the link above to access and explore the live inventory system
 
@@ -143,7 +143,7 @@ Hold Status = IF(Hold_Reason<>"", "On Hold", "Available")
 - Dealership PO/Invoice numbering system knowledge
 
 ### Download & Setup
-1. **[Access the system](https://docs.google.com/spreadsheets/d/1_MPsV5xK9Pgx_FmYz1DfumbP07w7B4z7Fs9Ta3IR_KM/edit?sharingaction=ownershiptransfer&gid=2102566362#gid=2102566362)**
+1. **[Access the system](https://docs.google.com/spreadsheets/d/1_MPsV5xK9Pgx_FmYz1DfumbP07w7B4z7Fs9Ta3IR_KM/edit?usp=sharing)**
 2. Open in Microsoft Excel or Google Sheets
 3. For Excel: File → Create a Copy → Download
 4. Review all sheets to understand data flow
